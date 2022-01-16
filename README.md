@@ -20,7 +20,7 @@ Previously, I worked as a Senior Data Scientist & Analytics Consultant
 
 # Projects
 
-**<a href="https://explainy.readthedocs.io/en/latest/readme.html"> explainy</a>** a Python library for generating machine learning model explanations for humans
+**<a href="https://github.com/MauroLuzzatto/explainy"> explainy</a>** a Python library for generating machine learning model explanations for humans
 
 # Technologies
 
