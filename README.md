@@ -2,11 +2,11 @@
 
 
 # Hey! I am **Mauro Luzzatto** 👋
-I am a Data Scientist/Data Engineer from Switzerland. 🇨🇭
+I am a Data Scientist/Data Engineer from Switzerland 🇨🇭
 
-I currently live and work as a Data Engineer in Stockholm, Sweden. 🇸🇪
+I currently live and work as a Data Engineer in Stockholm, Sweden 🇸🇪
 
-Previously, I worked as a Senior Data Scientist & Analytics Consultant.
+Previously, I worked as a Senior Data Scientist & Analytics Consultant
 
 # Interests
 
