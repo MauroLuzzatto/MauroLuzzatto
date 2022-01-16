@@ -30,6 +30,6 @@ Previously, I worked as a Senior Data Scientist & Analytics Consultant
 <p>📈 Data Engineering: PySpark, Airflow</p>
 <p>💻 Database Management: SQL, PostgreSQL</p>
 <p>🏗️ DevOps: GIT, Docker, Travis, CI/CD, Sentry</p>
-<p>☁️ Cloud: AWS (ECS, ECR), AWS Solution Architect Associate Certification, AWS Machine Learning Specialt Certification Azure Architect Technologies Certificate (AZ-300)</p>
+<p>☁️ Cloud: AWS (ECS, ECR, AWS Solution Architect Associate, Machine Learning Specialty),  Azure (AZ-300)</p>
 
 
