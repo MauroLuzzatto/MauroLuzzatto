@@ -1,10 +1,10 @@
 
 
 
-# Hey! I am **Mauro Luzzatto** 👋
-I am a Data Scientist/Data Engineer from Switzerland 🇨🇭
+# Hey! I am Mauro 👋
+I am a Data Scientist/Data Engineer from Switzerland
 
-I currently live and work as a Data Engineer in Stockholm, Sweden 🇸🇪
+I currently live and work as a Data Engineer in Stockholm, Sweden
 
 Previously, I worked as a Senior Data Scientist & Analytics Consultant
 
@@ -12,10 +12,8 @@ Previously, I worked as a Senior Data Scientist & Analytics Consultant
 
 - Data Engineering, the modern data stack, and in the question on how to build a successful data infrastructure
 - Data Science, NLP, and the effects of Data Science on our society
-- Cloud concepts
 - Software Engineering best practices, such as testing, documentation, readable code and code reviews
-
-
+- Cloud computing
 
 
 # Projects
@@ -25,11 +23,11 @@ Previously, I worked as a Senior Data Scientist & Analytics Consultant
 # Technologies
 
 <p>🚀 Data Science: Scikit-Learn, PyTorch, TensorFlow, Pandas, Numpy</p>
+<p>💻 Data Engineering: PySpark, Airflow</p>
 <p>💬 NLP: Gensim, Spacy, Huggingface</p>
 <p>⚡ Other Frameworks: FastAPI</p>
-<p>📈 Data Engineering: PySpark, Airflow</p>
-<p>💻 Database Management: SQL, PostgreSQL</p>
+<p>💾 Database Management: SQL, PostgreSQL</p>
 <p>🏗️ DevOps: GIT, Docker, Travis, CI/CD, Sentry</p>
-<p>☁️ Cloud: AWS (ECS, ECR, AWS Solution Architect Associate, Machine Learning Specialty),  Azure (AZ-300)</p>
+<p>☁️ Cloud: AWS (AWS Solution Architect Associate, Machine Learning Specialty),  Azure (AZ-300)</p>
 
 
