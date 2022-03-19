@@ -1,4 +1,5 @@
-# Hey! 👋
+Hey! I am **Mauro Luzzatto**
+
 I am a Data Scientist/Data Engineer from Switzerland
 
 I currently live and work as a Data Engineer in Stockholm, Sweden
