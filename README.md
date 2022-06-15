@@ -6,6 +6,9 @@ I currently live and work as a Data Engineer in Stockholm, Sweden
 
 Previously, I worked as a Senior Data Scientist & Analytics Consultant
 
+[![Mauro Luzzatto github stats](https://github-readme-stats.vercel.app/api?username=MauroLuzzatto&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Interests
 
 - Data Engineering, the modern data stack, and in the question on how to build a successful data infrastructure
@@ -28,8 +31,6 @@ Previously, I worked as a Senior Data Scientist & Analytics Consultant
 <p>🏗️ DevOps: GIT, Docker, Travis, CI/CD, Sentry</p>
 <p>☁️ Cloud: AWS (AWS Solution Architect Associate, Machine Learning Specialty),  Azure (AZ-300)</p>
 
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=MauroLuzzatto&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroLuzzatto)](https://github.com/anuraghazra/github-readme-stats)
