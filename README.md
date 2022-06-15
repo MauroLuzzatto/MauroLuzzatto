@@ -30,8 +30,3 @@ Previously, I worked as a Senior Data Scientist & Analytics Consultant
 <p>💾 Database Management: SQL, PostgreSQL</p>
 <p>🏗️ DevOps: GIT, Docker, Travis, CI/CD, Sentry</p>
 <p>☁️ Cloud: AWS (AWS Solution Architect Associate, Machine Learning Specialty),  Azure (AZ-300)</p>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroLuzzatto)](https://github.com/anuraghazra/github-readme-stats)
-
