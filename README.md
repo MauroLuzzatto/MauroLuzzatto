@@ -19,10 +19,13 @@ I am a Data Scientist/Data Engineer from Switzerland. I currently live and work 
 
 # Technologies
 
-<p>🚀 Data Science: Scikit-Learn, PyTorch, TensorFlow, Pandas, Numpy</p>
-<p>💻 Data Engineering: PySpark, Airflow</p>
+<p>🚀 Data Science: Python (Scikit-Learn, PyTorch, TensorFlow, Pandas, Numpy), SQL</p>
+<p>💻 Data Engineering: dbt, Snowplow, BigQuery, PySpark, Airflow</p>
+<p>Web Development: FastAPI, TailwindCSS, htmx, jinja</p>
+<p>🏗️ DevOps: Git, Docker, Github Actions, Terraform (basics)</p>
 <p>💬 NLP: Gensim, Spacy, Huggingface</p>
-<p>⚡ Other Frameworks: FastAPI</p>
-<p>💾 Database Management: SQL, PostgreSQL</p>
-<p>🏗️ DevOps: GIT, Docker, Travis, CI/CD, Sentry</p>
-<p>☁️ Cloud: AWS (AWS Solution Architect Associate, Machine Learning Specialty),  Azure (AZ-300)</p>
+<p>📈 Data Visualization: Looker, Streamlit</p>
+<p>☁️ Cloud: GCP (Certified Professional Data Engineer), AWS (AWS Solution Architect Associate, Machine Learning Specialty), Azure (AZ-300)
+</p>
+
+
