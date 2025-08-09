@@ -1,6 +1,7 @@
 Hey! I am **Mauro Luzzatto**
 
-I am a Data Scientist/Data Engineer from Switzerland. I currently live and work as a Data Engineer in Stockholm, Sweden
+I am a Data Scientist/Data Engineer from Switzerland. 
+I currently live and work as a Machine Learning Engineer in Stockholm, Sweden
 
 [![Mauro Luzzatto github stats](https://github-readme-stats.vercel.app/api?username=MauroLuzzatto&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
