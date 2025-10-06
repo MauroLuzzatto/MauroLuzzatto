@@ -1,7 +1,6 @@
 Hey! I am **Mauro Luzzatto**
 
-I am a Data Scientist/Data Engineer from Switzerland. 
-I currently live and work as a Machine Learning Engineer in Stockholm, Sweden
+I am a Machine Learning Engineer working on Generative AI, specifically audio generation models. As part of my work, I have been training, developing, and evaluating diffusion models for audio generation.
 
 [![Mauro Luzzatto github stats](https://github-readme-stats.vercel.app/api?username=MauroLuzzatto&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
